@@ -10,4 +10,6 @@ streamlit.text('kale, spinach & rocket smoothie')
 
 streamlit.text('Hard-boiled free-range egg')
 
-streamlit.text('\N{Avocado}Avocado Toast')
+streamlit.text('Avocado Toast')
+
+streamlit.header('Bulid your own smoothie')
