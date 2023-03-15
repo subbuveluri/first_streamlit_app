@@ -4,7 +4,7 @@ streamlit.title('My parents new healthy diner')
 
 streamlit.header('Breakfast favorites')
 
-streamli.text('omega 3 & blueberry oatmeal')
+streamlit.text('omega 3 & blueberry oatmeal')
 
 streamlit.text('kale, spinach & rocket smoothie')
 
